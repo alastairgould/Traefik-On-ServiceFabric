@@ -1,0 +1,1 @@
+C:\Users\alast\TraefikOnServiceFabric> ./traefik-on-service-fabric/Traefik/Scripts/Get-TraefikBinary.ps1 -url https://github.com/containous/traefik/releases/download/v1.5.4/traefik_windows-amd64.exe

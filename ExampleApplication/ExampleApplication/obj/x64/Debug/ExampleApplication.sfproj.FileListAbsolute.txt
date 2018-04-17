@@ -1,0 +1,2 @@
+c:\users\alast\source\repos\ExampleApplication\ExampleApplication\obj\x64\Debug\ExampleApplication.sfproj.CoreCompileInputs.cache
+C:\Users\alast\TraefikOnServiceFabric\ExampleApplication\ExampleApplication\obj\x64\Debug\ExampleApplication.sfproj.CoreCompileInputs.cache
