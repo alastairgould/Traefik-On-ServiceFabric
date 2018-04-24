@@ -36,7 +36,7 @@ expand to more users
 
 ### Canary Release - Headers
 You can redirect users to different microservices based on their headers(includes cookies).
-So you could logon as a test user in producvtion which sets a test user cookie. You could then
+So you could logon as a test user in production which sets a test user cookie. You could then
 manually validate the new microservice in production without effecting any other user.
 Then release to everyone. If the new microservice fails validation in production then
 no customer would be effected.
