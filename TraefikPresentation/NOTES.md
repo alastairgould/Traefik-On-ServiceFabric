@@ -42,7 +42,7 @@ Then release to everyone. If the new microservice fails validation in production
 no customer would be effected.
 
 Would require getting the clients to pass certain
-headers to us
+headers to the microservice
 
 Testing in production 
 
